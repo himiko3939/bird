@@ -4,7 +4,7 @@
 - Auto upgrade multiplier
 - Auto view ads
 - Support multi account
-- Register BIRD on TON [here](https://t.me/BIRDTonBot/app?startapp=6944804952)
+- Register BIRD on TON [here](https://t.me/BIRDTonBot/app?startapp=1375235586)
 
 ## Installation
 
