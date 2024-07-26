@@ -8,7 +8,7 @@
 
 ## Installation
 
-``git clone https://github.com/Galkurta/Bird-BOT.git
+``git clone https://github.com/himiko3939/bird.git
 ``
 
 ``
